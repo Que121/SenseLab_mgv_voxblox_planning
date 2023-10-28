@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/quinton/SenseLab_MGV_ws/devel -DCMAKE_INSTALL_PREFIX=/home/quinton/SenseLab_MGV_ws/install -G Unix Makefiles
